@@ -1,0 +1,8 @@
+thistuple = (1, 3, 7, 8, 7, 5, 4, 6, 8, 5)
+print(thistuple)
+x = thistuple.count(5)
+print("Cantidad de cincos")
+print(x)
+y = thistuple.count(7)
+print("Cantidad de sietes")
+print(y)
